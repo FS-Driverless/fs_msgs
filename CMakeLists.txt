@@ -13,7 +13,7 @@ add_message_files(
   FinishedSignal.msg
   GoSignal.msg
   Track.msg
-  TrackObject.msg
+  Cone.msg
 )
 
 generate_messages(
