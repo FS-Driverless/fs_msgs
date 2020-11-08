@@ -16,6 +16,11 @@ add_message_files(
   Cone.msg
 )
 
+add_service_files(
+  FILES
+  Reset.srv
+)
+
 generate_messages(
   DEPENDENCIES
   geometry_msgs
