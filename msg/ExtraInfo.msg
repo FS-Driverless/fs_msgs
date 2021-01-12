@@ -1,0 +1,2 @@
+uint32 doo_counter
+uint32 laps
