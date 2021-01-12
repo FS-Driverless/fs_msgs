@@ -1,2 +1,5 @@
+# The number of Down Or Out cones during the run
 uint32 doo_counter
-uint32 laps
+
+# The number of finished laps driven by the vehicle
+uint32 laps 
