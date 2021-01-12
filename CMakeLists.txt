@@ -14,6 +14,7 @@ add_message_files(
   GoSignal.msg
   Track.msg
   Cone.msg
+  ExtraInfo.msg
 )
 
 add_service_files(
