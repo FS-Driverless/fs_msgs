@@ -2,4 +2,4 @@
 uint32 doo_counter
 
 # The number of finished laps driven by the vehicle
-float64[] laps 
+float32[] laps 
